@@ -23,6 +23,8 @@ for dirname, dirs, files in os.walk(old):
         #print(path)
         url = path.replace(old, '')
         path = path.replace(old, new)
+        if path.endswith('CNAME'):
+            continue
         if url.endswith('.html'):
             url = 'https://kantoniko.com/' + url[:-5]
         if url.endswith('/index'):
