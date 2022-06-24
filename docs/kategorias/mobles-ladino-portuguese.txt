@@ -1,0 +1,6 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to kategorias/mobles-ladino-portuguese.txt</title>
+<meta http-equiv="refresh" content="0; URL=kategorias/mobles-ladino-portuguese.txt">
+<link rel="canonical" href="kategorias/mobles-ladino-portuguese.txt">

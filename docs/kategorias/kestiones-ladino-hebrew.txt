@@ -1,0 +1,6 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to kategorias/kestiones-ladino-hebrew.txt</title>
+<meta http-equiv="refresh" content="0; URL=kategorias/kestiones-ladino-hebrew.txt">
+<link rel="canonical" href="kategorias/kestiones-ladino-hebrew.txt">

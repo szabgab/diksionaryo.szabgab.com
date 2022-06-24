@@ -1,0 +1,6 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to kategorias/diminutivos-ladino-english.txt</title>
+<meta http-equiv="refresh" content="0; URL=kategorias/diminutivos-ladino-english.txt">
+<link rel="canonical" href="kategorias/diminutivos-ladino-english.txt">

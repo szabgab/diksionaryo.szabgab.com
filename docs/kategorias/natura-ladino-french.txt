@@ -1,0 +1,6 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to kategorias/natura-ladino-french.txt</title>
+<meta http-equiv="refresh" content="0; URL=kategorias/natura-ladino-french.txt">
+<link rel="canonical" href="kategorias/natura-ladino-french.txt">

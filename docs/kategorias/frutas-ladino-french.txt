@@ -1,0 +1,6 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to kategorias/frutas-ladino-french.txt</title>
+<meta http-equiv="refresh" content="0; URL=kategorias/frutas-ladino-french.txt">
+<link rel="canonical" href="kategorias/frutas-ladino-french.txt">

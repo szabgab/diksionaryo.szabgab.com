@@ -1,0 +1,6 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to kategorias/komidas-ladino-spanish.txt</title>
+<meta http-equiv="refresh" content="0; URL=kategorias/komidas-ladino-spanish.txt">
+<link rel="canonical" href="kategorias/komidas-ladino-spanish.txt">

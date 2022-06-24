@@ -1,0 +1,6 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to kategorias/kamaretas-ladino-turkish.txt</title>
+<meta http-equiv="refresh" content="0; URL=kategorias/kamaretas-ladino-turkish.txt">
+<link rel="canonical" href="kategorias/kamaretas-ladino-turkish.txt">

@@ -1,0 +1,6 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to kategorias/ropa-ladino-english.txt</title>
+<meta http-equiv="refresh" content="0; URL=kategorias/ropa-ladino-english.txt">
+<link rel="canonical" href="kategorias/ropa-ladino-english.txt">

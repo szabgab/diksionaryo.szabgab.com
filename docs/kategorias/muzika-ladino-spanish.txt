@@ -1,0 +1,6 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to kategorias/muzika-ladino-spanish.txt</title>
+<meta http-equiv="refresh" content="0; URL=kategorias/muzika-ladino-spanish.txt">
+<link rel="canonical" href="kategorias/muzika-ladino-spanish.txt">

@@ -1,0 +1,6 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to CNAME</title>
+<meta http-equiv="refresh" content="0; URL=CNAME">
+<link rel="canonical" href="CNAME">
