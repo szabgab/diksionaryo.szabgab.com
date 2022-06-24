@@ -25,6 +25,8 @@ for dirname, dirs, files in os.walk(old):
         path = path.replace(old, new)
         if url.endswith('.html'):
             url = 'https://kantoniko.com/' + url[:-5]
+        if url.endswith('/index'):
+            url = url[:-5]
         #print(path)
         this_dir = os.path.dirname(path)
         os.makedirs(this_dir, exist_ok=True)
