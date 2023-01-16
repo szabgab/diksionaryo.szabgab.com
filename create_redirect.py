@@ -1,6 +1,6 @@
 import os
 
-old = '../ladino-diksionaryo-generated/docs/'
+old = '../kantoniko.github.io/docs/'
 new = 'docs/'
 
 def get_html(url):
